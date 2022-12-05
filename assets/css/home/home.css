@@ -33,7 +33,7 @@ header > h3 {
         transform: scale(2) rotate(45deg);
     }
     100% {
-        transform: scale(1.1);
+        transform: scale(1);
     }
 }
 
