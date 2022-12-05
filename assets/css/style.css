@@ -1,0 +1,12 @@
+/* utility */
+
+@import './utility/tipografia.css';
+@import './utility/cores.css';
+
+/* global */
+
+@import './global/global.css';
+
+/* home */
+
+@import './home/home.css';
